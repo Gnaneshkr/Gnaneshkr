@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I’m currently working on PYTHON & C++<br> I’m looking for help with<br>🌱 I’m currently perusing my Engineering in INFORMATION SCIENCE [ISE] <br>💬 Ask me about<br>⚡ Coding  Gives Energy
+I’m currently working on PYTHON & C <br> I’m looking for help with<br>🌱 I’m currently perusing my Engineering in INFORMATION SCIENCE [ISE] <br>💬 Ask me about<br>⚡ Coding  Gives Energy
 
 
 ## 🌐 Socials:
